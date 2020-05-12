@@ -28,5 +28,13 @@ private:
      * @date 2020-05-12
      */
     void init_log4qt();
+
+    /**
+     * @brief switch_login
+     * @details switch login page
+     * @author LuSheng
+     * @date 2020-05-12
+     */
+    void switch_login();
 };
 #endif // MAINWINDOW_H
